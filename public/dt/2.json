@@ -1,0 +1,15 @@
+[{
+    "name":"Tom",
+    "age":19,
+    "sex":"man"
+},
+{
+    "name":"Lily",
+    "age":18,
+    "sex":"woman"},
+{
+    "name":"Strong",
+    "age":20,
+    "sex":"man"}
+        
+]

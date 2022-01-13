@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  color: red;
+}
+.content {
+  margin-top: 10px;
+  width: 300px;
+  border: 1px solid black;
+}
+#formation {
+  margin-top: 20px;
+  width: 301px;
+  border-top: 1px solid;
+  border-left: 1px solid;
+  border-collapse: collapse;
+  text-align: center;
+}
+#formation td {
+  width: 100px;
+  height: 30px;
+  border-right: 1px solid;
+  border-bottom: 1px solid;
+}
