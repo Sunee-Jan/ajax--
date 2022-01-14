@@ -7,4 +7,4 @@
 
 3. 打开地址
 
- `http://localhost:8888/index.htnl`
+ `http://localhost:8888/index.html`
